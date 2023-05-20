@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Vin%C3%ADcius+G.+F.;I'm+17+years+old;I'm+from+Limeira%2C+SP;I'm+brazilian+and+want+to+be+a+programmer;I+am+currently+studying+systems+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+G.+F.;I'm+17+years+old.;I'm+from+Limeira,+SP.;I'm+brazilian+and+want+to+be+a+programmer.;I'm+currently+studying+systems+development.)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epicestudar&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius G. F. github stats" /> 
