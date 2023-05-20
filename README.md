@@ -24,4 +24,6 @@
  <a href="https://www.twitch.tv/vini_alienado" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "viniciusftza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![snake gif](https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake.svg)
           
