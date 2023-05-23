@@ -26,6 +26,11 @@
   <a href="https://www.linkedin.com/in/vinícius-granço-feitoza-a15723277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## My trophies:
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
@@ -33,9 +38,3 @@
   </div>
 
 ![Snake animation](https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake.svg)
-          
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
