@@ -13,26 +13,15 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epicestudar&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius G. F. github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicestudar&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div> <br>
-
-<p align="center">
-  <a href="https://twitter.com/mas_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/VzUR95y" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/juliusulee"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/juliusule"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+</div> <br> <br>
  
 <p align="center">
    <a href="https://github.com/epicestudar?tab=repositories">
     <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/epicestudar?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
   <a href="https://github.com/epicestudar?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/epicestudar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/epicestudar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+</p> <br>
 
 ## My trophies:
 <p align="center">
@@ -40,7 +29,7 @@
 </p>
 
 <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
+    <br><p align="centre"><b>Count: </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
     <br>
   </div>
