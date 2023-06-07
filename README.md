@@ -1,31 +1,38 @@
-## Olá! Meu nome é Vinícius. 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<p align="center">
+<img width=10% src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png"/>
+  </p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinícius+G.+F.;I'm+17+years+old.;I'm+from+Limeira,+SP.;I'm+brazilian+and+want+to+be+a+programmer.;I'm+currently+studying+systems+development.)](https://git.io/typing-svg)
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=Vinícius+Granço" alt="Typing SVG" /></a>
+</p> <br>
+  
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=F77398&center=true&vCenter=true&width=435&lines=Brazilian+entering+the+world+of+programming.;Learning+HTML%2C+CSS%2C+JS+and+JAVA.;17+years+old.;Building+ideas%2C+line+by+line." alt="Typing SVG" /></a>
+  </p> <br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epicestudar&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius G. F. github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicestudar&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div> <br>
 
-## Learning:
-<div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" height="50" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" height="50" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" height="50" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" height="50" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" height="50" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="50" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" align="center" height="70" width="40"/>
- </div>
+<p align="center">
+  <a href="https://twitter.com/mas_ulee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/VzUR95y" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/juliusulee"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/juliusule"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
  
- ## Social Media:
- <div>
- <a href="https://www.twitch.tv/vini_alienado" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "viniciusftza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinícius-granço-feitoza-a15723277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="center">
+   <a href="https://github.com/epicestudar?tab=repositories">
+    <img alt="repositories" title="repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/epicestudar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Julius-Ulee?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/epicestudar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ## My trophies:
 <p align="center">
