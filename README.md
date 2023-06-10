@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-    <br><p align="centre"><b>Count: </b></p>  
+    <br><p align="centre"><b>Visitors: </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
     <br>
   </div>
