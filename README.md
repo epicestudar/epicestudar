@@ -1,11 +1,11 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980"> <br> <br>
   
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F63A68&center=true&vCenter=true&repeat=false&width=435&lines=Vin%C3%ADcius+Gran%C3%A7o+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F63A68&center=true&vCenter=true&repeat=false&width=435&lines=Vin%C3%ADcius+Gran%C3%A7o+Feitoza" alt="Typing SVG" /></a>
 </p> <br>
   
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=F77398&center=true&vCenter=true&width=435&lines=Brazilian+entering+the+world+of+programming.;Learning+HTML%2C+CSS%2C+JS+and+JAVA.;17+years+old.;Building+ideas%2C+line+by+line." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=F77398&center=true&vCenter=true&width=435&lines=Brazilian+Entering+the+World+of+Programming.;Learning+HTML%2C+CSS%2C+PHP%2C+JS+and+Java.;17+Years+Old.;Building+Ideas%2C+Line+by+Line." alt="Typing SVG" /></a>
   </p> <br>
 
 <div align="center">
