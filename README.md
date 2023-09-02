@@ -25,9 +25,23 @@
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=epicestudar&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
+
+## Learning:
+<div align="center"><br>
+   <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+ 
+  
+</div>
+<br>
 
 <div align="center">
-    <br><p align="centre"><b>Visitors: </b></p>  
+    <br><br><br><br><br><br><p align="centre"><b>counter: </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
     <br>
   </div>
