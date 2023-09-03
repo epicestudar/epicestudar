@@ -46,4 +46,4 @@
     <br>
   </div>
 
-![Snake animation](https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake.gif)
