@@ -25,7 +25,7 @@
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=epicestudar&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
+<a href="https://github.com/epicestudar/github-readme-activity-graph"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=epicestudar&theme=tokyo-night&bg_color=000000&hide_border=true" /></a>
 
 ## Learning:
 <div align="center"><br>
