@@ -1,0 +1,29 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ".github/settings.json"
+      - name: Copy files
+        run: |
+          cp -f profile-3d-contrib/* src/images/profile-3d
+          rm -rf profile-3d-contrib
+      - name: Commit & Push
+        run: |
+          git config user.name epicestudar
+          git config user.email viniciusftza@gmail.com
+          git add -A .
+          git commit -m "🖼️ Update GitHub Profile 3D Contrib"
+          git push
