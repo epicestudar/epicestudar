@@ -24,6 +24,10 @@
 ## My trophies:
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=epicestudar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+   <a href="https://github.com/epicestudar">
+      <source media="(prefers-color-scheme: light)" srcset="src/images/profile-3d/profile-custom-season.svg" width = "98%">
+      <img title="My Activity" src="src/images/profile-3d/profile-custom-night-view.svg" width = "98%"/>
+    </a>
 </p>
 <a href="https://github.com/epicestudar"><img alt="Vinícius Granço Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=epicestudar&bg_color=000000&color=39c63c&line=0ea032&point=ffffff&area=true&hide_border=true" /></a>
 
