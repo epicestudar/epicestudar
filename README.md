@@ -50,4 +50,6 @@
     <br>
   </div>
 
-
+<p align="center">
+    <img title="🐍 Snake contributions" src="https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake-dark.svg">
+  </p>
