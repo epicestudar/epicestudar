@@ -88,6 +88,10 @@
         <a href="https://github.com/epicestudar/GameZone">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=GameZone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
+    <a href="https://github.com/epicestudar/BMI_Calculator">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+       <a href="https://github.com/epicestudar/stopwatch">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=stopwatch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
    </details>
 
