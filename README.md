@@ -110,6 +110,25 @@
      </p>
          </details>
    </details>
+    <details open>
+     <summary><h2>📚Course Repositories</h2></summary>
+         <details open>
+            <summary><h3>📕Senai - Limeira, Brazil</h3></summary>
+     <p align="center">
+        <a href="https://github.com/epicestudar/Java-1semestre2023">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Java-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+    <a href="https://github.com/epicestudar/FrontEnd-1semestre2023">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+       <a href="https://github.com/epicestudar/Backend-PHP-2semestre2023">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Backend-PHP-2semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+         <a href="https://github.com/epicestudar/POO-2Semestre-2023-Senai">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=POO-2Semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+           <a href="https://github.com/epicestudar/FrontEnd-2semestre-2023-Senai">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+     </p>
+          </details>
+     </details>
 
    
 
