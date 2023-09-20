@@ -78,12 +78,10 @@
       <a href="https://netbeans.apache.org/"><img alt="Apache Netbeans" src="https://img.shields.io/badge/Apache_Netbeans_IDE-Apache?logo=Apache%20NetBeans&color=1B6AC6&logoColor=white"></a>
       <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
+  </p> <br><br>
    </details>
-
-   <details open>
-     <summary><h2>📋Projects</h2></summary>
-     <details open>
+     <summary><h2>📋Projects</h2></summary> 
+     <details open> 
     <summary><h3>👨‍💻Solo</h3></summary>
      <p align="center">
         <a href="https://github.com/epicestudar/GameZone">
@@ -96,7 +94,7 @@
          <a href="https://github.com/epicestudar/Digital_Bank">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Digital_Bank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
-         </details>
+         </details> <br><br><br>
            <details open>
     <summary><h3>🏢Group</h3></summary>
      <p align="center">
@@ -109,8 +107,7 @@
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
          </details>
-   </details>
-    <details open>
+   </details> <br><br><br>
      <summary><h2>📚Course Repositories</h2></summary>
          <details open>
             <summary><h3>📕Senai - Limeira, Brazil</h3></summary>
@@ -127,7 +124,15 @@
            <a href="https://github.com/epicestudar/FrontEnd-2semestre-2023-Senai">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
-          </details>
+          </details> <br><br><br>
+             <details open>
+                <summary><h3>🖥️Online Courses</h3></summary>
+  <p align="center">
+        <a href="https://github.com/epicestudar/Curso-de-JavaScript">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso-de-JavaScript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+     </p>
+               </details>
      </details>
 
    
