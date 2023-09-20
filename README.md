@@ -83,7 +83,8 @@
 
    <details open>
      <summary><h2>📋Projects</h2></summary>
-     <h3>Solo</h3>
+     <details open>
+    <summary><h3>👨‍💻Solo</h3></summary>
      <p align="center">
         <a href="https://github.com/epicestudar/GameZone">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=GameZone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
@@ -95,7 +96,22 @@
          <a href="https://github.com/epicestudar/Digital_Bank">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Digital_Bank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
+         </details>
+           <details open>
+    <summary><h3>🏢Group</h3></summary>
+     <p align="center">
+        <a href="https://github.com/epicestudar/BookHaven">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BookHaven&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+    <a href="https://github.com/ProjectPOOCalculator/CalculatorLayout">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectPOOCalculator&repo=CalculatorLayout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+       <a href="https://github.com/OZimbres/VTL-SA2">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+     </p>
+         </details>
    </details>
+
+   
 
 <div align="center">
     <br><br><br><br><br><br><p align="centre"><b>counter: </b></p>  
