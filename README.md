@@ -117,11 +117,13 @@
     </a> 
     <a href="https://github.com/epicestudar/FrontEnd-1semestre2023">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-       <a href="https://github.com/epicestudar/Backend-PHP-2semestre2023">
+      </a> 
          <a href="https://github.com/epicestudar/POO-2Semestre-2023-Senai">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=POO-2Semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+           </a> 
            <a href="https://github.com/epicestudar/FrontEnd-2semestre-2023-Senai">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+             </a> 
      </p>
           </details> <br><br><br>
              <details open>
