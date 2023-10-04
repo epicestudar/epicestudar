@@ -85,26 +85,26 @@
     <summary><h3>👨‍💻Solo</h3></summary>
      <p align="center">
         <a href="https://github.com/epicestudar/GameZone">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=GameZone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=GameZone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/epicestudar/BMI_Calculator">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
        <a href="https://github.com/epicestudar/stopwatch">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=stopwatch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=stopwatch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
          <a href="https://github.com/epicestudar/Digital_Bank">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Digital_Bank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Digital_Bank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
          </details> <br><br><br>
            <details open>
     <summary><h3>🏢Group</h3></summary>
      <p align="center">
         <a href="https://github.com/epicestudar/BookHaven">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BookHaven&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BookHaven&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/ProjectPOOCalculator/CalculatorLayout">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectPOOCalculator&repo=CalculatorLayout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectPOOCalculator&repo=CalculatorLayout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
        <a href="https://github.com/OZimbres/VTL-SA2">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
          </details>
    </details> <br><br><br>
@@ -113,23 +113,22 @@
             <summary><h3>📕Senai - Limeira, Brazil</h3></summary>
      <p align="center">
         <a href="https://github.com/epicestudar/Java-1semestre2023">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Java-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Java-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
     <a href="https://github.com/epicestudar/FrontEnd-1semestre2023">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
        <a href="https://github.com/epicestudar/Backend-PHP-2semestre2023">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Backend-PHP-2semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
          <a href="https://github.com/epicestudar/POO-2Semestre-2023-Senai">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=POO-2Semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=POO-2Semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
            <a href="https://github.com/epicestudar/FrontEnd-2semestre-2023-Senai">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
           </details> <br><br><br>
              <details open>
                 <summary><h3>🖥️Online Courses</h3></summary>
-  <p align="center">
+  <p align="cnter">
         <a href="https://github.com/epicestudar/Curso-de-JavaScript">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso-de-JavaScript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso-de-JavaScript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
      </p>
                </details>
