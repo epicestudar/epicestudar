@@ -5,7 +5,7 @@
 </p> <br>
   
   <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=91F793FF&center=true&vCenter=true&width=435&lines=Estudando+Des.+de+Sistemas+no+SENAI.;Aprendendo+Python%2C+Mobile%2C+PHP%2C+and+JS.;Localizado+em+Limeira%2C+SP.;Construindo+Ideias%2C+Linha+por+Linha." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=91F793FF&center=true&vCenter=true&width=435&lines=Estudando+Des.+de+Sistemas+no+SENAI.;Aprendendo+Python%2C+Mobile%2C+PHP%2C+e+JS.;Localizado+em+Limeira%2C+SP.;Construindo+Ideias%2C+Linha+por+Linha." alt="Typing SVG" /></a>
   </p> <br>
 
 <div align="center">
@@ -104,34 +104,34 @@
      <p align="left">
         <a href="https://github.com/epicestudar/BookHaven">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BookHaven&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
+    </a> <br>
     <a href="https://github.com/ProjectPOOCalculator/CalculatorLayout">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectPOOCalculator&repo=CalculatorLayout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectPOOCalculator&repo=CalculatorLayout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
        <a href="https://github.com/OZimbres/VTL-SA2">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
      </p>
          </details>
    </details> <br><br><br>
-     <summary><h2>📚Course Repositories</h2></summary>
+     <summary><h2>📚Cursos Presenciais</h2></summary>
          <details open>
             <summary><h3>📕Senai - Limeira, Brazil</h3></summary>
      <p align="left">
         <a href="https://github.com/epicestudar/Java-1semestre2023">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Java-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
+    </a> <br>
     <a href="https://github.com/epicestudar/FrontEnd-1semestre2023">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-1semestre2023&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-      </a> 
+      </a> <br>
          <a href="https://github.com/epicestudar/POO-2Semestre-2023-Senai">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=POO-2Semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-           </a> 
+           </a> <br>
            <a href="https://github.com/epicestudar/FrontEnd-2semestre-2023-Senai">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-             </a> 
+             </a> <br>
      </p>
           </details> <br><br><br>
              <details open>
-                <summary><h3>🖥️Online Courses</h3></summary>
+                <summary><h3>🖥️Cursos Online</h3></summary>
   <p align="left">
         <a href="https://github.com/epicestudar/Curso-de-JavaScript">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso-de-JavaScript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
@@ -143,11 +143,11 @@
    
 
 <div align="center">
-    <br><br><br><br><br><br><p align="centre"><b>counter: </b></p>  
+    <br><br><br><br><br><br><p align="centre"><b>count++: </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
     <br>
   </div>
 
 <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake-dark.svg">
+    <img title="🐍 Jogo da Cobrinha" src="https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake-dark.svg">
   </p>
