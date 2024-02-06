@@ -143,7 +143,7 @@
    
 
 <div align="center">
-    <br><br><br><br><br><br><p align="centre"><b>count++: </b></p>  
+    <br><br><br><br><br><br><p align="centre"><b>count++ </b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
     <br>
   </div>
