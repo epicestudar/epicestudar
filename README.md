@@ -126,7 +126,10 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=POO-2Semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
            </a> <br>
            <a href="https://github.com/epicestudar/FrontEnd-2semestre-2023-Senai">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FrontEnd-2semestre-2023-Senai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> </a> <br>
+              <a href="https://github.com/epicestudar/SpringBoot">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=SpringBoot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+           </a> <br>
              </a> <br>
      </p>
           </details> <br><br><br>
@@ -135,6 +138,9 @@
   <p align="left">
         <a href="https://github.com/epicestudar/Curso-de-JavaScript">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso-de-JavaScript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> <br>
+     <a href="https://github.com/epicestudar/Udemy">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Udemy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
      </p>
                </details>
