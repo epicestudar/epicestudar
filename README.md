@@ -76,7 +76,7 @@
       <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="https://cloud.google.com/"><img alt="Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
-    <a href="https://cloud.google.com/"><img width="80px" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="https://cloud.google.com/"><img width="83px" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   </p>
 
   <h3>🛠️ Ferramentas de Trabalho</h3>
