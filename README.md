@@ -5,7 +5,7 @@
 </p> <br>
   
   <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=91F793FF&center=true&vCenter=true&width=435&lines=Estudando+Des.+de+Sistemas+no+SENAI.;Aprendendo+SpringBoot%2C+Mobile%2C+e+PHP.;Localizado+em+Limeira%2C+SP.;Construindo+Ideias%2C+Linha+por+Linha." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4989&pause=1000&color=91F793FF&center=true&vCenter=true&width=435&lines=Estudando+Des.+de+Sistemas+no+SENAI.;Aprendendo+SpringBoot%2C+Mobile+e+PHP.;Localizado+em+Limeira%2C+SP.;Construindo+Ideias%2C+Linha+por+Linha." alt="Typing SVG" /></a>
   </p> <br>
 
 <div align="center">
@@ -15,7 +15,7 @@
  
 <p align="center">
    <a href="https://github.com/epicestudar?tab=repositories">
-    <img alt="my repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
+    <img alt="my repos" title="Repositorios" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-FFBF00?style=for-the-badge&logoColor=white&logo=repo">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/epicestudar?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
   <a href="https://github.com/epicestudar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/epicestudar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
