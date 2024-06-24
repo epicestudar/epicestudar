@@ -164,6 +164,3 @@
     <br>
   </div>
 
-<p align="center">
-    <img title="🐍 Jogo da Cobrinha" src="https://github.com/epicestudar/epicestudar/blob/output/github-contribution-grid-snake-dark.svg">
-  </p>
