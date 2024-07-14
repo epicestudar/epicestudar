@@ -105,6 +105,10 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Loja_De_Carros&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
                <a href="https://github.com/epicestudar/Memory_Game">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Memory_Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                 <a href="https://github.com/epicestudar/Pizzaria">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Pizzaria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                   <a href="https://github.com/epicestudar/ToDoList_Py">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=ToDoList_Py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
      </p>
          </details> <br><br><br>
            <details open>
