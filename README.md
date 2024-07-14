@@ -141,6 +141,12 @@
               <a href="https://github.com/epicestudar/Flutter">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Flutter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
            </a> <br>
+       <a href="https://github.com/epicestudar/Curso_Python">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso_Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> <br>
+       <a href="https://github.com/epicestudar/BancoDeDados">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BancoDeDados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> <br>
      </p>
           </details> <br><br><br>
              <details open>
