@@ -120,7 +120,11 @@
     <a href="https://github.com/ProjectPOOCalculator/CalculatorLayout">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectPOOCalculator&repo=CalculatorLayout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
        <a href="https://github.com/OZimbres/VTL-SA2">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=OZimbres&repo=VTL-SA2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+       <a href="https://github.com/Epic-s-Projects/Gerenciamento_de_Estoque">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic-s-Projects&repo=Gerenciamento_de_Estoque&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+    <a href="https://github.com/epicestudar/JogoDaMemoria">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=JogoDaMemoria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />   
      </p>
          </details>
    </details> <br><br><br>
