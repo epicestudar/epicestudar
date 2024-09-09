@@ -109,6 +109,8 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Pizzaria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
                    <a href="https://github.com/epicestudar/ToDoList_Py">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=ToDoList_Py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                      <a href="https://github.com/epicestudar/Plataforma_EAD">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Plataforma_EAD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
      </p>
          </details> <br><br><br>
            <details open>
@@ -124,7 +126,7 @@
        <a href="https://github.com/Epic-s-Projects/Gerenciamento_de_Estoque">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Epic-s-Projects&repo=Gerenciamento_de_Estoque&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
     <a href="https://github.com/epicestudar/JogoDaMemoria">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=JogoDaMemoria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />   
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=JogoDaMemoria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
      </p>
          </details>
    </details> <br><br><br>
@@ -153,8 +155,9 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Curso_Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> <br>
        <a href="https://github.com/epicestudar/BancoDeDados">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BancoDeDados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> <br>
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BancoDeDados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+         <a href="https://github.com/epicestudar/4termo_SENAI">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=4Termo_SENAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
      </p>
           </details> <br><br><br>
              <details open>
