@@ -77,19 +77,20 @@
    <h3>🗄️ Banco de Dados e Armazenamento em Nuvem</h3>
 
   <p>
-      <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="https://cloud.google.com/"><img alt="Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
-    <a href="https://cloud.google.com/"><img width="83px" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      <a href="https://github.com/epicestudar"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/epicestudar"><img alt="Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white"></a>
+    <a href="https://github.com/epicestudar"><img width="80px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+      <a href="https://github.com/epicestudar"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/epicestudar"><img width="87px" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   </p>
 
   <h3>🛠️ Ferramentas de Trabalho</h3>
   <p>
-      <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="https://netbeans.apache.org/"><img alt="Apache Netbeans" src="https://img.shields.io/badge/Apache_Netbeans_IDE-Apache?logo=Apache%20NetBeans&color=1B6AC6&logoColor=white"></a>
-      <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+     <a href="https://github.com/epicestudar"><img alt="Apache Netbeans" src="https://img.shields.io/badge/Apache_Netbeans_IDE-Apache?logo=Apache%20NetBeans&color=1B6AC6&logoColor=white"></a>
+      <a href="https://github.com/epicestudar"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="https://github.com/epicestudar"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="https://github.com/epicestudar"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="https://github.com/epicestudar"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p> <br><br>
    </details>
      <summary><h2>📋Projetos</h2></summary> 
