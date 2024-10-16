@@ -116,6 +116,10 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=ToDoList_Py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
                       <a href="https://github.com/epicestudar/Plataforma_EAD">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Plataforma_EAD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                        <a href="https://github.com/epicestudar/Hostly-spring-API">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Hostly-spring-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                          <a href="https://github.com/epicestudar/Hostly-java-interface">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Hostly-java-interface&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
      </p>
          </details> <br><br><br>
            <details open>
