@@ -99,6 +99,8 @@
      <p align="left">
        <a href="https://github.com/epicestudar/Spoofing-test">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Spoofing-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+         <a href="https://github.com/epicestudar/IntuitiveCare">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=IntuitiveCare&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
     <a href="https://github.com/epicestudar/BMI_Calculator">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
        <a href="https://github.com/epicestudar/stopwatch">
@@ -122,6 +124,10 @@
            <details open>
     <summary><h3>🏢Grupo</h3></summary>
      <p align="left">
+       <a href="https://github.com/epicestudar/Recolhe.ai">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Recolhe.ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+         <a href="https://github.com/epicestudar/FastPoint">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=FastPoint&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
         <a href="https://github.com/epicestudar/BookHaven">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BookHaven&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> <br>
