@@ -97,9 +97,6 @@
      <details open> 
     <summary><h3>👨‍💻Solo</h3></summary>
      <p align="left">
-        <a href="https://github.com/epicestudar/GameZone">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=GameZone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> <br>
     <a href="https://github.com/epicestudar/BMI_Calculator">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
        <a href="https://github.com/epicestudar/stopwatch">
@@ -112,8 +109,6 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Memory_Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
                  <a href="https://github.com/epicestudar/Pizzaria">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Pizzaria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-                   <a href="https://github.com/epicestudar/ToDoList_Py">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=ToDoList_Py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
                       <a href="https://github.com/epicestudar/Plataforma_EAD">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Plataforma_EAD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
                         <a href="https://github.com/epicestudar/Hostly-spring-API">
