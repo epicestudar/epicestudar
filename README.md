@@ -143,6 +143,13 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Votefy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
      </p>
          </details>
+         <details open>
+    <summary><h3>📜Certificados</h3></summary>
+    <p align="left">
+    <a href="https://github.com/epicestudar/Certificados">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Certificados&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+       </p>
+         </details>
    
 
 <div align="center">
