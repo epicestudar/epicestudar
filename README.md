@@ -1,4 +1,4 @@
-<img src="https://github.com/epicestudar/epicestudar/blob/master/capa.gif" alt="Mario Game" width="100%" height="250"> <br> <br>
+<img src="https://github.com/epicestudar/epicestudar/blob/master/wallpaper.png" alt="Mario Game" width="100%" height="250"> <br> <br>
   
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=38F77CFF&center=true&vCenter=true&repeat=false&width=435&lines=epicestudar" alt="Typing SVG" /></a>
