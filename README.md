@@ -101,15 +101,6 @@
 </details>
 
 
-
-<div align="center">
-    <br><br><br><br><br><br>
-    <p align="center"><b>count++ </b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vinicius-granco}/count.svg" /></p> 
-    <br>
-</div>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
