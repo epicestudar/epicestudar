@@ -1,29 +1,53 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ".github/settings.json"
+
       - name: Copy files
         run: |
-          cp -f profile-3d-contrib/* src/images/profile-3d
+          # Bug 4 corrigido: adicionado mkdir -p antes do cp.
+          # Se o diretório "src/images/profile-3d" não existir no repositório,
+          # o comando cp falhava com erro "No such file or directory".
+          # O flag -p cria todos os diretórios intermediários sem erro caso já existam.
+          mkdir -p src/images/profile-3d
+          cp -f profile-3d-contrib/* src/images/profile-3d/
           rm -rf profile-3d-contrib
+
       - name: Commit & Push
         run: |
-          git config user.name epicestudar
-          git config user.email viniciusftza@gmail.com
+          git config user.name "epicestudar"
+          git config user.email "viniciusftza@gmail.com"
           git add -A .
-          git commit -m "🖼️ Update GitHub Profile 3D Contrib"
-          git push
+
+          # Bug 5 corrigido: adicionado verificação antes de commitar.
+          # Se não houver alterações nos arquivos gerados, "git commit" falhava
+          # com exit code 1 e o workflow inteiro falhava com erro.
+          # Agora verifica primeiro se há mudanças no staging area:
+          #   - git diff --cached --quiet → retorna 0 se NÃO há mudanças, 1 se há
+          #   - Se não há mudanças, printa mensagem e encerra com sucesso (exit 0)
+          #   - Se há mudanças, executa o commit e o push normalmente
+          if ! git diff --cached --quiet; then
+            git commit -m "🖼️ Update GitHub Profile 3D Contrib"
+            git push
+          else
+            echo "✅ Sem alterações para commitar. Workflow finalizado com sucesso."
+          fi
